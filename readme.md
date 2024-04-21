@@ -7,6 +7,7 @@ Running this script automatically sorts all of my photos (primarily from my iPho
 The script uses the creation date from the photo's metadata to sort it into the relevant folder.
 
 Example:
+
 ![Example image](https://i.imgur.com/CRrRwK8.png)
 
 ## How to use
