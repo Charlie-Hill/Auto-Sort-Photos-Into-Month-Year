@@ -1,6 +1,6 @@
 # Sort photos into Month-Year (Month-YYYY) folder
 
-I created this python script as part of my offline backup procedure for all of my photos.
+I created this python script as part of my offline backup procedure for all of my photos. It automatically moves photos into separate folders based on the month & year when the photo was taken.
 
 Running this script automatically sorts all of my photos (primarily from my iPhone) into a separate month-year (Month-YYYY) folder.
 
